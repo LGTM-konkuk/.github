@@ -1,12 +1,12 @@
-## Hi there 👋
+# LGTM-konkuk - 코드 리뷰 플랫폼
 
-<!--
+Welcome to the LGTM-konkuk organization repository! This project is a platform for code review, designed to help developers efficiently review and manage code.
 
-**Here are some ideas to get you started:**
+## 프로젝트 개요
+LGTM-konkuk는 건국대학교 팀에서 진행 중인 코드 리뷰 플랫폼 프로젝트입니다. 개발자들이 코드 리뷰를 원활하게 진행할 수 있도록 도와주는 기능을 제공합니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 주요 기능
+
+
+## API 명세서
+API 명세서는 [API Documentation](docs/api/api-spec.md)에서 확인할 수 있습니다.
